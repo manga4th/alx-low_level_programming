@@ -2,11 +2,11 @@
 
 int main(void)
 {
-	char mg = "alx_se";
+	char *mg = "alx_se";
 
-	while(mg)
+	while(*mg)
 	{
-		_putchar(mg);
+		_putchar(*mg);
 		mg++;
 	}
 	_putchar('\n');
