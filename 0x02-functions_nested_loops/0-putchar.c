@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char *mg = "program";
+	char *mg = "programe";
 
 	while (*mg)
 	{
