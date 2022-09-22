@@ -1,1 +1,1 @@
-char *mg
+char *mg;
