@@ -7,14 +7,14 @@
 
 int main(void)
 {
-	char *mg = "alx_se";
+	char *mg = "program";
 
-	while(*mg)
+	while (*mg)
 	{
 		_putchar(*mg);
 		mg++;
 	}
 	_putchar('\n');
 
-	return(0);
+	return (0);
 }
